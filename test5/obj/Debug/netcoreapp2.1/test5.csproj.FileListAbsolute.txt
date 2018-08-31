@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\test5\test5\bin\Debug\netcoreapp2.1\test5.deps.json
+C:\Users\LENOVO\source\repos\test5\test5\bin\Debug\netcoreapp2.1\test5.runtimeconfig.json
+C:\Users\LENOVO\source\repos\test5\test5\bin\Debug\netcoreapp2.1\test5.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\test5\test5\bin\Debug\netcoreapp2.1\test5.dll
+C:\Users\LENOVO\source\repos\test5\test5\bin\Debug\netcoreapp2.1\test5.pdb
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.RazorAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.dll
+C:\Users\LENOVO\source\repos\test5\test5\obj\Debug\netcoreapp2.1\test5.pdb
