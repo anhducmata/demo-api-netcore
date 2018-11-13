@@ -1,1 +1,2 @@
-$('.header .container').css("display","none");
+
+document.getElementsByClassName("header").style.display = "none";
