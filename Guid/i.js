@@ -1,1 +1,1 @@
-alert('a');
+$('.header .container').css("display","none");
